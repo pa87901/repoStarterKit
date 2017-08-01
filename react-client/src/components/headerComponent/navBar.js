@@ -5,8 +5,8 @@ class NavBar extends Component {
   render() {
     return (
       <header>
-        <ul>
-          <li><Link to="">Home</Link></li>
+        <ul id="headerButtons">
+          <li className="navButton"><Link to="">Home</Link></li>
         </ul>
       </header>
     )
