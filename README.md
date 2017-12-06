@@ -1,13 +1,36 @@
-# repoStarterKit
-
-Developer: Preda (Wen) Anuvatnujotikul
-
-Notes:
+# Start building your own website
 This is a repository that I created to help others develop their websites in React.
-Please follow the instructions on getting started on my Medium page:
+
+
+
+## Tech stack
+* [React](https://github.com/facebook/react) & [React Router 4](https://github.com/ReactTraining/react-router)
+* [Node](https://github.com/nodejs) & [Express](https://github.com/expressjs/express)
+
+
+
+## Getting started
+
+### Setting up the basic environment in Node:
+You will need to install Node globally if you do not have it installed already on your local drive:
+```
+sudo npm install -g
+```
+
+### Installing dependencies
+The prescribed dependencies needed for building a website are listed in the `package.json` file of this repository.
+Once this repo is cloned to your local drive, from within the root directory:
+```
+npm install
+```
+
+
+
+## Additional information
+Getting started steps are also detailed in my blog post:
 https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710
 
-In my article, the steps to create your own website include:
+The steps to create your own website include:
 1. File architecture
 2. Setting up the basic environment in Node
 3. Installing the React framework
@@ -17,6 +40,10 @@ In my article, the steps to create your own website include:
 7. Viewing on local host
 8. Deploying on Heroku
 
-
 My own website is deployed on:
 https://predawebsite.herokuapp.com/
+
+
+
+## Author
+Preda Anuvatnujotikul
