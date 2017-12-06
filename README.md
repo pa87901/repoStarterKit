@@ -16,6 +16,10 @@ You will need to install Node globally if you do not have it installed already o
 ```
 sudo npm install -g
 ```
+Installing Nodemon is also highly recommended as it watches for any changes that are saved and will restart your application with the updated code base.
+```
+npm install nodemon -g 
+```
 
 ### Installing dependencies
 The prescribed dependencies needed for building a website are listed in the `package.json` file of this repository.
