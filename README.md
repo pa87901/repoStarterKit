@@ -30,7 +30,7 @@ npm install
 More granular instructions as a guide to building a website are included in my blog post, if needed:
 https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710
 
-The steps to create a website include:
+### The steps to create a website include:
 1. File architecture
 2. Setting up the basic environment in Node
 3. Installing the React framework
