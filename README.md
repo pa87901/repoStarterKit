@@ -16,7 +16,7 @@ You will need to install Node globally if you do not have it installed already o
 ```
 sudo npm install -g
 ```
-Installing Nodemon is also highly recommended as it watches for any changes that are saved and will restart your application with the updated code base.
+Installing Nodemon is also highly recommended as it watches for any changes that are saved and will automatically restart your application with the updated code base.
 ```
 npm install nodemon -g 
 ```
