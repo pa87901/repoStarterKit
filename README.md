@@ -27,10 +27,10 @@ npm install
 
 
 ## Additional information
-Getting started steps are also detailed in my blog post:
+More granular instructions as a guide to building a website are included in my blog post, if needed:
 https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710
 
-The steps to create your own website include:
+The steps to create a website include:
 1. File architecture
 2. Setting up the basic environment in Node
 3. Installing the React framework
@@ -39,9 +39,6 @@ The steps to create your own website include:
 6. Styling and CSS
 7. Viewing on local host
 8. Deploying on Heroku
-
-My own website is deployed on:
-https://predawebsite.herokuapp.com/
 
 
 
