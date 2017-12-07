@@ -47,4 +47,4 @@ https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-re
 
 
 ## Author
-Preda Anuvatnujotikul
+Preda A
