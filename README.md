@@ -31,8 +31,8 @@ npm install
 
 
 ## Additional information
-More granular instructions as a guide to building a website are included in my blog post, if needed:
-https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710
+More granular instructions as a guide to building a website are included in my [blog post](https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710), if needed.
+
 
 ### The steps to create a website include:
 1. File architecture
