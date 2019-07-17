@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab496850-15f5-42e3-83b5-d7dd4e7cf175" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-client/src/components/pages/landingPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-client/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-client/dist/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-client/src/components/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-client/src/components/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="ab496850-15f5-42e3-83b5-d7dd4e7cf175" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/react-client/src/components/pages/landingPage.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+              <caret line="7" column="82" lean-forward="true" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -246,16 +241,15 @@
       <updated>1563301668151</updated>
       <workItem from="1563301669510" duration="4848000" />
       <workItem from="1563383276769" duration="1476000" />
-      <workItem from="1563392694590" duration="705000" />
+      <workItem from="1563392694590" duration="1156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7029000" />
+    <option name="totallyTimeSpent" value="7480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1891892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,7 +364,7 @@
     <entry file="file://$PROJECT_DIR$/react-client/src/components/pages/landingPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+          <caret line="7" column="82" lean-forward="true" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
         </state>
       </provider>
     </entry>
