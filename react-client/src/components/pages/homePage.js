@@ -1,13 +1,19 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 
-class HomePage extends Component {
-  render() {
-    return (
+function HomePage() {
+  const [count, setCount] = useState(0);
+  return (
+    <div>
+      Home page
       <div>
-        Home page
+        This is a simple div to show how React states can work in React Hooks.
+        Count: {count}
+        <button onClick={() => setCount(count + 1)}>
+          Increment count
+        </button>
       </div>
-    )
-  }
+    </div>
+  );
 }
 
 export default HomePage;
