@@ -1,15 +1,5 @@
 import React, { useState } from 'react';
 
-// class HomePage extends Component {
-//   render() {
-//     return (
-//       <div>
-//         Home page
-//       </div>
-//     )
-//   }
-// }
-
 function HomePage() {
   const [count, setCount] = useState(0);
   return (
