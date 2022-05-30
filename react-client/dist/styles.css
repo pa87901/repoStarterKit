@@ -1,31 +1,36 @@
 header {
   display: block;
   background-color: black;
-  width: 100%;
-  height: 50px;
+  width: 100vw;
+  height: 10vh;
   color: white;
 }
 
 #headerButtons {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
 .navButton {
-  float: right;
+  margin: 3vh;
+}
+
+.main {
+  height: 75vh;
+  padding: 1% 3%;
 }
 
 footer {
   display: block;
   width: 100%;
-  height: 50px;
+  height: 15vh;
   background-color: black;
   color: white;
 }
 
 .centered {
-  height: 100vh; /* Magic here */
   display: flex;
   justify-content: center;
   align-items: center;

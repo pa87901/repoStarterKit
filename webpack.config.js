@@ -13,29 +13,34 @@ module.exports = {
     rules : [
       {
         test: /\.css$/,
-        loader: 'style-loader!css-loader'
+        use: ['style-loader', 'css-loader']
       },
       {
         test: /\.png$/,
-        loader: 'url-loader?limit=100000&minetype=image/png'
+        type: 'asset/resource'
       },
       {
         test: /\.jpg/,
-        loader: 'file-loader'
+        loader: 'file-loader',
       },
       {
         test : /\.jsx?/,
         include : SRC_DIR,
-        loader : 'babel-loader',      
-        query: {
-          presets: ['react', 'es2015']
-       }
+        exclude: /node_modules/,
+        use: [
+          {
+            loader: 'babel-loader',
+            options: {
+              presets: ['react']
+            }
+          }
+        ],
       }
     ]
   },
   plugins: [
     new webpack.DefinePlugin({
-      'process.env.NODE_ENV': JSON.stringify('production')
-    })
-  ]
+      'process.env.NODE_ENV' : JSON.stringify('production')
+    }),
+  ],
 };
